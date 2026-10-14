@@ -37,18 +37,6 @@ This project solves the problem by consolidating the raw records into one standa
 
 ---
 
-## 📂 Dataset
-
-*(Fill in with your actual dataset details. Example structure below.)*
-
-- **Dataset Scope:** Student enrollment and payment records for tech courses
-- **Time Period:** [e.g., 2021–2023]
-- **Total Records (Raw):** [number]
-- **Total Records (Cleaned):** [number]
-- **Key Fields:** Student_ID, First_Name, Last_Name, Age, Gender, Course, Enrollment_Date, Total_Payment
-
----
-
 ## 📋 Cleaned Dataset Schema
 
 | Column | Type | Description |
