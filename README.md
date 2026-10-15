@@ -54,8 +54,6 @@ This project solves the problem by consolidating the raw records into one standa
 
 ## 📈 Key Metrics and KPIs
 
-*(Fill in with your actual figures once calculated.)*
-
 - **Total Students Enrolled:** [number]
 - **Total Revenue:** [amount]
 - **Average Payment per Student:** [amount]
@@ -124,8 +122,6 @@ The final table with eight consistent columns, proper data types, a table style,
 
 ## 💡 Key Insights & Business Question Analysis
 
-*(Fill in with 2–4 sentences per question once your analysis is finished.)*
-
 **Which courses attract the most students?**
 
 [Insight here]
@@ -153,8 +149,6 @@ The final table with eight consistent columns, proper data types, a table style,
 ---
 
 ## 🚀 Strategic Recommendations
-
-*(Example structure. Tailor to your actual findings.)*
 
 **🔑 Enforce Unique Student IDs**
 
@@ -203,7 +197,7 @@ This project turns a messy student enrollment spreadsheet into a reliable, struc
 
 ## 🔧 How to Download and Use
 
-1. Download `[your-workbook].xlsx`.
+1. Download `[Data_cleaning].xlsx`.
 2. Open the file in Microsoft Excel or WPS Spreadsheet.
 3. Go to the cleaned sheet and use the header filters to explore data by course, gender, age, or date.
 
