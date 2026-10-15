@@ -123,20 +123,16 @@ The final table with eight consistent columns, proper data types, a table style,
 ## 💡 Key Insights & Business Question Analysis
 
 **Which courses attract the most students?**
-
-[Insight here]
+Data Science and Machine Learning lead with 29 students each (about 28% of the 104 enrollments), followed by Web Development (19), Cyber Security (14) and Data Analysis (13). The two most popular courses together account for over half of all enrollments, while Cyber Security and Data Analysis are the smallest programs.
 
 **How much revenue does each course generate?**
-
-[Insight here]
+Cyber Security brings in the most at about 19.6M, followed by Data Analysis (7.4M), Web Development (5.1M), Machine Learning (4.5M) and Data Science (about 30K). Total revenue is about 36.6M. Cyber Security earns the most despite having only 14 students, so it has the highest revenue per student. Data Science has the most students but the lowest revenue. These totals mix very different payment sizes (see the note below), so treat the ranking as indicative.
 
 **What is the age and gender profile of students?**
-
-[Insight here]
+Students are young: the average age is 22.7 and the median is 22, and 80 of the 104 students are aged 20 to 24. Ages range from 18 to 78, with the oldest being a single outlier. Male students make up 60% of enrollments (62) and female students 40% (42). The split differs sharply by course: Machine Learning is almost entirely female (27 of 29), while Data Science (24 of 29) and Web Development (18 of 19) are mostly male.
 
 **How has enrollment changed over time?**
-
-[Insight here]
+Enrollment peaked in 2022 with 56 students (54% of the total), then fell to 18 in 2023 and 8 in 2024 (to August). July 2022 was the busiest month with 13 enrollments. July and August recur as busy intake months in 2021, 2022, 2023 and 2024. A drop since 2022 suggests fewer new intakes or less complete recent records.
 
 ---
 
